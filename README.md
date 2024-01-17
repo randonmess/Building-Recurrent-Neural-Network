@@ -1,2 +1,2 @@
 # Building-Recurrent-Neural-Network
-Building and RNN from scratch in Jupyter
+Building an RNN from scratch in Jupyter with NumPy
